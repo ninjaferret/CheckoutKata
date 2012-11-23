@@ -1,0 +1,6 @@
+var checkout = new Checkout(/* pricing info*);
+checkout.Scan(item);
+var price = checkout.Total;
+
+A			Apples			£0.50
+B			Bananas			£0.30
